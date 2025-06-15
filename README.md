@@ -26,3 +26,8 @@ Our system classifies news articles as either **real** or **fake** based on thei
 - **Pandas, NumPy**
 - **Matplotlib / Seaborn** (for visualization)
 - **Google cloab**
+
+---
+
+## 📦 Dataset
+ [Fake News Dataset on Kaggle](https://www.kaggle.com/c/fake-news/data)
